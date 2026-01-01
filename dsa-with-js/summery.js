@@ -1,1 +1,1 @@
-console.log("1 Commit | ! Leetcode :)")
+console.log("1 Commit | 1 Leetcode :)")
